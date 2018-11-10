@@ -1,0 +1,8 @@
+language: python
+
+python:
+
+  - "3.7.1"
+
+# TODO: commenting this for now since we have no scripts yet
+# script:
